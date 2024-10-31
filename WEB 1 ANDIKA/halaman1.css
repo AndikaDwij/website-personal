@@ -1,0 +1,22 @@
+.header{
+	
+}
+body {
+	color:aliceblue;
+	background-color: black;
+	font-style: italic;
+	
+  	font-optical-sizing: auto;
+	font-size: 30px;
+	text-shadow: 0px 5px 5px rgb(238, 209, 156);
+	height: 1000px;
+}
+.p{
+	font-family: "Montserrat", sans-serif;
+	font-size: 15px;
+	
+}
+.a{
+   color:aliceblue;
+   font-size: 15px;
+}
